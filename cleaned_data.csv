@@ -1,0 +1,101 @@
+brand,model,screen_size,ram,storage,cpu_model,operating_system,price,rating,review_count,graphic
+Lenovo,IdeaPad Slim 5,14.0,16,1024,Snapdragon,‎Windows 11 Home,74990.0,5.0,1,Integrated
+Lenovo,IdeaPad,14.0,16,512,Intel Core i5,‎Windows 11 Home,52390.0,3.9,488,Integrated
+HP,HP 255,15.6,8,512,Ryzen 5,‎DOS,29990.0,3.4,18,Integrated
+Lenovo,Lenovo V15 G4,15.6,16,512,Ryzen 7,‎Windows 11,39990.0,4.0,89,Integrated
+Lenovo,Lenovo V15,15.6,16,512,Core i7-1255U,‎Windows 11 Home,48490.0,3.4,12,Integrated
+Lenovo,IdeaPad Slim 5,14.0,16,1024,Snapdragon,‎Windows 11 Home,74990.0,5.0,1,Integrated
+Lenovo,IdeaPad Slim,15.0,16,512,Intel Core i7,‎Windows 11 Home,66690.0,4.0,821,Integrated
+MSI,Thin 15,15.748031496062993,16,512,Core i5,‎Windows 11 Home,61990.0,4.0,31,Dedicated
+Lenovo,IdeaPad Slim 3,15.6,16,512,Intel Core i5,‎Windows 11 Home,57390.0,4.2,3,Integrated
+Apple,"15-inch MacBook Air (M4, 2025)",15.3,16,512,Apple M4,Windows 11 Home,144900.0,5.0,1,Integrated
+Apple,MacBook Air,13.0,8,256,Core M Family,‎macOS 10.14 Mojave,62990.0,4.6,6556,Integrated
+Apple,MacBook Air,13.0,8,256,Core M Family,‎macOS 10.14 Mojave,62990.0,4.6,6556,Integrated
+acer,Aspire Lite,15.6,16,512,Ryzen 5,‎Windows 11 Home,34490.0,4.0,1111,Integrated
+acer,Z8-284,11.6,8,256,Celeron,‎Windows 11 Home,17990.0,3.0,20,Integrated
+Jio,JioBook,11.6,4,64,Others,‎JioOS,12990.0,3.0,345,Integrated
+Lenovo,82TS00PDLM,14.0,16,512,Core i5,‎Windows 11 Home,39980.0,3.0,1,Integrated
+Lenovo,IdeaPad,15.6,16,512,Intel Core i5,‎Windows 11 Pro,24990.0,3.3,6,Integrated
+HP,HP Laptop,15.6,16,512,Intel Core i5,‎Windows 11 Home,56990.0,3.8,122,Integrated
+Lenovo,LOQ,15.6,16,512,AMD Ryzen 7,‎Windows 11,90190.0,4.0,1,Dedicated
+acer,Aspire 3,15.6,8,512,Celeron,‎Windows 11 Home,23990.0,3.4,265,Integrated
+Apple,MacBook Air,13.6,8,512,Others,Windows 11 Home,76990.0,4.4,53,Integrated
+acer,Aspire 3,15.6,8,256,Celeron,‎Windows 11 Home,22990.0,3.4,265,Integrated
+Apple,MacBook Air,13.0,8,256,Core M Family,‎macOS 10.14 Mojave,62990.0,4.6,6556,Integrated
+ASUS,ASUS TUF Gaming,14.0,32,2048,Ryzen 9,‎Windows 11 Home,164990.0,4.3,5,Dedicated
+ASUS,ASUS Vivobook 16,16.0,16,512,Core i5-12500H,‎Windows 11 Home,53990.0,4.0,88,Integrated
+Lenovo,IdeaPad,15.6,8,512,Celeron N4020,‎Windows 11 Home,24880.0,3.0,2,Integrated
+HP,Victus Gaming Laptop,15.590551181102363,16,512,AMD Ryzen 5 5600X,‎Windows 11 Home,60990.0,4.1,233,Dedicated
+Dell,E6440 Latitude,14.0,8,500,Core i5,‎Windows 7,16500.0,3.8,97,Integrated
+Dell,Inspiron,15.6,8,512,Ryzen 5,‎Windows 11 Home,39490.0,4.0,16,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,2690.0,4.5,96,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,2690.0,4.5,96,Integrated
+Lenovo,IdeaPad Slim 3,15.6,16,512,Intel Core i5,‎Windows 11 Home,57390.0,4.2,3,Integrated
+Lenovo,IdeaPad Slim 5,16.0,16,512,Core i5,‎Windows 11 Home,73190.0,2.9,45,Integrated
+acer,Aspire Lite,15.6,8,512,Ryzen 3 5300U,‎Windows 11 Home,26990.0,4.0,1111,Integrated
+ASUS,TUF Gaming F15,15.6,16,512,AMD Ryzen 7,‎Windows 11 Home,63990.0,4.0,471,Dedicated
+Lenovo,IdeaPad 1 14IGL7,14.0,8,512,Celeron N4020,‎Windows 11 Home,20391.0,3.7,276,Integrated
+Lenovo,IdeaPad Slim,15.0,16,512,Intel Core i7,‎Windows 11 Home,66690.0,4.0,821,Integrated
+Apple,MacBook Air,13.6,16,512,Intel Core i5,Windows 11 Home,125990.0,4.6,111,Integrated
+Lenovo,LOQ,15.6,16,512,Intel Core i5,‎Windows 11,72190.0,4.0,525,Dedicated
+Lenovo,IdeaPad,14.0,8,512,Core i3,"‎Windows 11 Home 64, English",34990.0,4.0,493,Integrated
+Lenovo,LOQ,15.6,16,512,Intel Core i5,‎Windows 11 Home,78190.0,4.0,257,Dedicated
+Chuwi,HeroBook Pro,14.1,8,256,Celeron N4020,‎Windows 11,15990.0,3.5,3215,Integrated
+Acer,Acer ALG,15.6,16,64,Core i5,‎Windows 11 Home,72398.0,4.0,1,Dedicated
+acer,Aspire 3,14.0,8,512,Celeron,‎Windows 11 Home,22990.0,3.4,265,Integrated
+Lenovo,Lenovo V15 G2 IJL,15.6,8,256,Celeron,‎Windows 11 Home,21980.0,3.8,460,Integrated
+Samsung,Galaxy Book2 Pro,13.3,16,64,Core i7,‎Windows 11 Home,95999.0,3.9,59,Integrated
+Lenovo,IdeaPad Slim 5,14.0,16,1024,Snapdragon,‎Windows 11 Home,74990.0,5.0,1,Integrated
+Lenovo,IdeaPad,14.0,16,512,Intel Core i5,‎Windows 11 Home,52890.0,3.9,488,Integrated
+HP,HP Laptop,15.590551181102363,8,512,Core i3,‎Windows 11 Home,33999.0,4.2,705,Integrated
+acer,CB315-4H,15.6,8,512,Celeron,‎Chrome OS,18990.0,3.5,100,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,299.0,4.3,12714,Integrated
+acer,Aspire 3,14.0,8,256,Celeron,‎Windows 11 Home,21990.0,3.4,265,Integrated
+Tygot,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,299.0,4.4,1053,Integrated
+Samsung,Galaxy Book3 Pro,14.0,16,512,Others,‎Windows 11 Home,97150.0,3.7,15,Integrated
+Lenovo,IdeaPad,15.6,16,512,Ryzen 5,‎Windows 11 Home,39490.0,4.0,267,Integrated
+STRIFF,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,249.0,4.3,38584,Integrated
+Lenovo,IdeaPad Slim 5,14.0,16,1024,Core i5,‎Windows 11 Home,80190.0,3.8,32,Integrated
+Dell,dell Latitude 5420,14.0,256,256,Core i5 Family,‎Windows 10 Pro,34989.0,1.0,1,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,2690.0,4.5,96,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,2690.0,4.5,96,Integrated
+MSI,Thin 15,15.748031496062993,16,512,Core i7,‎Windows 11 Home,64990.0,3.9,3,Dedicated
+MSI,Thin 15,15.748031496062993,16,512,Core i5,‎Windows 11 Home,61990.0,4.0,31,Dedicated
+HP,HP Laptop,15.6,16,512,Intel Core i5,‎Windows 11 Home,56990.0,3.8,122,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,799.0,3.9,1354,Integrated
+Lenovo,LOQ,15.6,24,512,Ryzen 5,‎Windows 11 Home,75156.0,5.0,1,Dedicated
+Apple,MacBook Air,13.6,16,512,Intel Core i5,Windows 11 Home,116990.0,4.6,111,Integrated
+Lenovo,IdeaPad,14.0,16,512,Core i3,"‎Windows 11 Home 64, English",35990.0,4.0,493,Integrated
+Lenovo,LOQ,15.6,16,512,Intel Core i5,‎Windows 11,78190.0,4.0,257,Dedicated
+Lenovo,IdeaPad,15.6,16,512,Ryzen 5,‎Windows 11 Home,39490.0,4.0,267,Integrated
+HP,HP Laptop,15.6,8,512,Intel Core i3,‎Windows 11 Home,34990.0,3.8,99,Integrated
+Lenovo,Legion 5,16.0,16,1024,Intel Core i7,‎Windows 11 Home,169990.0,4.8,5,Dedicated
+FUTOPIA,NU14U3CNC43BN-MB,14.1,4,128,Celeron N4020,‎windows home 11,12990.0,3.7,29,Integrated
+ASUS,Vivobook Go 15 (2023),15.6,16,512,Ryzen 5,‎Windows 11 Home,40990.0,3.9,142,Integrated
+HP,HP Laptop,15.590551181102363,8,512,Ryzen 3,‎Windows,30442.0,4.0,1506,Integrated
+Lenovo,IdeaPad,14.0,16,512,Intel Core i5,‎Windows 11 Home,52890.0,3.9,488,Integrated
+MSI,Cyborg 14,14.173228346456693,8,512,Intel Core i5,‎Windows 11 Home,56990.0,5.0,1,Dedicated
+Chuwi,GemiBook Plus,15.6,8,256,Intel Core i5,‎Windows 11,20990.0,3.5,321,Integrated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,495.0,4.3,77434,Integrated
+Acer,Aspire Lite,15.6,16,64,Intel Core i5,‎Windows 11 Home,51988.0,4.0,1,Integrated
+amazon basics,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,249.0,4.1,2466,Integrated
+HP,245 G9,14.0,8,512,Ryzen 3 3250U,‎Windows 11 Pro,24890.0,3.3,15,Integrated
+Lenovo,IdeaPad 3,15.0,16,512,Core i3,"‎Windows 11 Home 64, English",35950.0,4.1,1054,Integrated
+HP,HP Victus,15.590551181102363,16,1024,Intel Core i7,‎Windows 11 Home,89990.0,3.3,17,Dedicated
+Lenovo,IdeaPad,14.0,16,512,Intel Core i5,‎Windows 11 Home,52390.0,3.9,488,Integrated
+HP,HP Laptop,15.590551181102363,16,512,Intel Core i5,‎Windows 11 Home,52990.0,3.9,370,Integrated
+Lenovo,IdeaPad Slim,15.0,16,512,Intel Core i7,‎Windows 11 Home,66690.0,4.0,821,Integrated
+XPAC RAMON,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,499.0,4.0,1,Integrated
+XPAC RAMON,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,499.0,4.0,1,Integrated
+Apple,"13-inch MacBook Air (M4, 2025)",13.6,16,512,Apple M4,Windows 11 Home,99900.0,4.0,1,Integrated
+MSI,Thin 15,15.748031496062993,8,512,Core i5,‎Windows 11 Home,52990.0,2.5,5,Dedicated
+HP,HP Laptop,15.590551181102363,8,512,Core i3,‎Windows 11 Home,39250.0,4.1,1936,Integrated
+HP,HP ZBook Firefly 16 inch G11 Mobile Workstation PC,40.6,32,1024,Intel Core Ultra 7,‎Windows 11 Professional,142000.0,5.0,1,Integrated
+Lenovo,LOQ,15.6,16,512,Ryzen 7,‎Windows 11 Home,91690.0,4.2,31,Dedicated
+Lenovo,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,299.0,4.3,12714,Integrated
+HP,IdeaPad,14.0,32,1024,Core i7,‎Windows 11 Home,144500.0,4.0,9,Integrated
+EDNITA,IdeaPad,0.0,16,512,Intel Core i5,Windows 11 Home,198.0,4.2,126,Integrated
+Microsoft,Surface Laptop,13.8,16,512,Snapdragon,‎Windows 11 Home,131990.0,5.0,3,Integrated
+HP,HP Laptop,15.6,16,512,Core i5,‎Windows 11 Home,57990.0,3.8,122,Integrated
+Lenovo,LOQ,15.6,16,512,Intel Core i5,‎Windows 11,78190.0,4.0,257,Dedicated
+Lenovo,IdeaPad,14.0,16,512,Intel Core i5,‎Windows 11 Home,52390.0,3.9,488,Integrated

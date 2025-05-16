@@ -1,0 +1,101 @@
+brand,model,screen_size,ram,storage,cpu_model,operating_system,price,rating,review_count,graphic
+Lenovo,IdeaPad Slim 5,14 Inches,16 GB,1 TB,Snapdragon,‎Windows 11 Home,74990.,5.0,1,Integrated
+Lenovo,IdeaPad,14 Inches,,512 GB,Intel Core i5,‎Windows 11 Home,52390.,3.9,488,Integrated
+HP,HP 255,15.6 Inches,8 GB,512 GB,Ryzen 5,‎DOS,29990.,3.4,18,Integrated
+Lenovo,Lenovo V15 G4,15.6 Inches,16 GB,512 GB,Ryzen 7,‎Windows 11,39990.,4.0,89,Integrated
+Lenovo,Lenovo V15,15.6 Inches,16 GB,512 GB,Core i7-1255U,‎Windows 11 Home,48490.,3.4,12,Integrated
+Lenovo,IdeaPad Slim 5,14 Inches,16 GB,1 TB,Snapdragon,‎Windows 11 Home,74990.,5.0,1,Integrated
+Lenovo,IdeaPad Slim,15 Inches,16 GB,512 GB,Intel Core i7,‎Windows 11 Home,66690.,4.0,821,Integrated
+MSI,Thin 15,40 Centimetres,16 GB,512 GB,Core i5,‎Windows 11 Home,61990.,4.0,31,Dedicated
+Lenovo,IdeaPad Slim 3,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11 Home,57390.,4.2,3,Integrated
+Apple,"15-inch MacBook Air (M4, 2025)",15.3 Inches,16 GB,No storage,Apple M4,No operating system,144900.,5.0,1,No graphic
+Apple,MacBook Air,13 Inches,8 GB,256 GB,Core M Family,‎macOS 10.14 Mojave,62990.,4.6,6556,Integrated
+Apple,MacBook Air,13 Inches,8 GB,256 GB,Core M Family,‎macOS 10.14 Mojave,62990.,4.6,6556,Integrated
+acer,Aspire Lite,15.6 Inches,16 GB,512 GB,Ryzen 5,‎Windows 11 Home,34490.,4.0,1111,Integrated
+acer,Z8-284,11.6 Inches,8 GB,256 GB,Celeron,‎Windows 11 Home,17990.,3.0,20,Integrated
+Jio,JioBook,11.6 Inches,4 GB,64 GB,Others,‎JioOS,12990.,3.0,345,Integrated
+Lenovo,82TS00PDLM,14 Inches,16 GB,512 GB,Core i5,‎Windows 11 Home,39980.,3.0,1,Integrated
+Lenovo,No model,15.6 Inches,,512 GB,,‎Windows 11 Pro,24990.,3.3,6,Integrated
+HP,HP Laptop,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11 Home,56990.,3.8,122,Integrated
+Lenovo,LOQ,15.6 Inches,16 GB,512 GB,AMD Ryzen 7,‎Windows 11,90190.,-1.0,No review count,Dedicated
+acer,Aspire 3,15.6 Inches,8 GB,512 GB,Celeron,‎Windows 11 Home,23990.,3.4,265,Integrated
+Apple,MacBook Air,13.6,8 GB,No storage,Others,No operating system,76990.,4.4,53,No graphic
+acer,Aspire 3,15.6 Inches,8 GB,256 GB,Celeron,‎Windows 11 Home,22990.,3.4,265,Integrated
+Apple,MacBook Air,13 Inches,8 GB,256 GB,Core M Family,‎macOS 10.14 Mojave,62990.,4.6,6556,Integrated
+ASUS,ASUS TUF Gaming,14 Inches,32 GB,2 TB,Ryzen 9,‎Windows 11 Home,164990.,4.3,5,Dedicated
+ASUS,ASUS Vivobook 16,16 Inches,16 GB,512 GB,Core i5-12500H,‎Windows 11 Home,53990.,4.0,88,Integrated
+Lenovo,IdeaPad,15.6 Inches,8 GB,512 GB,Celeron N4020,‎Windows 11 Home,24880.,3.0,2,Integrated
+HP,Victus Gaming Laptop,39.6 Centimetres,,512 GB,AMD Ryzen 5 5600X,‎Windows 11 Home,60990.,4.1,233,Dedicated
+Dell,E6440 Latitude,14 Inches,8 GB,500 GB,Core i5,‎Windows 7,16500,3.8,97,Integrated
+Dell,Inspiron,15.6 Inches,8 GB,512 GB,Ryzen 5,‎Windows 11 Home,39490.,4.0,16,Integrated
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,2690,4.5,96,No graphic
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,2690,4.5,96,No graphic
+Lenovo,IdeaPad Slim 3,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11 Home,57390.,4.2,3,Integrated
+Lenovo,IdeaPad Slim 5,16 Inches,16 GB,512 GB,Core i5,‎Windows 11 Home,73190.,2.9,45,Integrated
+acer,Aspire Lite,15.6 Inches,8 GB,512 GB,Ryzen 3 5300U,‎Windows 11 Home,26990.,4.0,1111,Integrated
+ASUS,TUF Gaming F15,15.6 Inches,,512 GB,AMD Ryzen 7,‎Windows 11 Home,63990.,4.0,471,Dedicated
+Lenovo,IdeaPad 1 14IGL7,14 Inches,8 GB,512 GB,Celeron N4020,‎Windows 11 Home,20391.,3.7,276,Integrated
+Lenovo,IdeaPad Slim,15 Inches,16 GB,512 GB,Intel Core i7,‎Windows 11 Home,66690.,4.0,821,Integrated
+Apple,MacBook Air,13.6 Inches,16 GB,No storage,Unknown,No operating system,125990.,4.6,111,No graphic
+Lenovo,LOQ,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11,72190.,4.0,525,Dedicated
+Lenovo,IdeaPad,14 Inches,8 GB,512 GB,Core i3,"‎Windows 11 Home 64, English",34990.,4.0,493,Integrated
+Lenovo,LOQ,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11 Home,78190.,4.0,257,Dedicated
+Chuwi,HeroBook Pro,14.1 Inches,8 GB,256 GB,Celeron N4020,‎Windows 11,15990.,3.5,3215,Integrated
+Acer,Acer ALG,15.6 Inches,16 GB,Solid State,Core i5,‎Windows 11 Home,72398.,-1.0,No review count,Dedicated
+acer,Aspire 3,14 Inches,8 GB,512 GB,Celeron,‎Windows 11 Home,22990.,3.4,265,Integrated
+Lenovo,Lenovo V15 G2 IJL,15.6 Inches,8 GB,256 GB,Celeron,‎Windows 11 Home,21980.,3.8,460,Integrated
+Samsung,Galaxy Book2 Pro,13.3 Inches,16 GB,USB,Core i7,‎Windows 11 Home,95999.,3.9,59,Integrated
+Lenovo,IdeaPad Slim 5,14 Inches,16 GB,1 TB,Snapdragon,‎Windows 11 Home,74990.,5.0,1,Integrated
+Lenovo,IdeaPad,14 Inches,,512 GB,Intel Core i5,‎Windows 11 Home,52890.,3.9,488,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,‎Windows 11 Home,33999.,4.2,705,Integrated
+acer,CB315-4H,15.6 Inches,8 GB,No storage,Celeron,‎Chrome OS,18990.,3.5,100,Integrated
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,299,4.3,12714,No graphic
+acer,Aspire 3,14 Inches,8 GB,256 GB,Celeron,‎Windows 11 Home,21990.,3.4,265,Integrated
+Tygot,No model,No screen size,No RAM,No storage,No CPU model,No operating system,299,4.4,1053,No graphic
+Samsung,Galaxy Book3 Pro,35.56 Centimetres,16 GB,512 GB,Others,‎Windows 11 Home,97150.,3.7,15,Integrated
+Lenovo,IdeaPad,15.6 Inches,16 GB,512 GB,Ryzen 5,‎Windows 11 Home,39490.,4.0,267,Integrated
+STRIFF,No model,No screen size,No RAM,No storage,No CPU model,No operating system,249,4.3,38584,No graphic
+Lenovo,IdeaPad Slim 5,14 Inches,16 GB,1 TB,Core i5,‎Windows 11 Home,80190.,3.8,32,Integrated
+Dell,dell Latitude 5420,14 Inches,256 GB,256 GB,Core i5 Family,‎Windows 10 Pro,34989,1.0,1,Integrated
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,2690,4.5,96,No graphic
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,2690,4.5,96,No graphic
+MSI,Thin 15,40 Centimetres,16 GB,No storage,Core i7,‎Windows 11 Home,64990.,3.9,3,Dedicated
+MSI,Thin 15,40 Centimetres,16 GB,512 GB,Core i5,‎Windows 11 Home,61990.,4.0,31,Dedicated
+HP,HP Laptop,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11 Home,56990.,3.8,122,Integrated
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,799,3.9,1354,No graphic
+Lenovo,LOQ,15.6 Inches,24 GB,512 GB,Ryzen 5,‎Windows 11 Home,75156.,5.0,1,Dedicated
+Apple,MacBook Air,13.6 Inches,16 GB,No storage,Unknown,No operating system,116990.,4.6,111,No graphic
+Lenovo,IdeaPad,14 Inches,,512 GB,Core i3,"‎Windows 11 Home 64, English",35990.,4.0,493,Integrated
+Lenovo,LOQ,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11,78190.,4.0,257,Dedicated
+Lenovo,IdeaPad,15.6 Inches,16 GB,512 GB,Ryzen 5,‎Windows 11 Home,39490.,4.0,267,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Intel Core i3,‎Windows 11 Home,34990.,3.8,99,Integrated
+Lenovo,Legion 5,16 Inches,16 GB,1 TB,Intel Core i7,‎Windows 11 Home,169990.,4.8,5,Dedicated
+FUTOPIA,NU14U3CNC43BN-MB,14.1 Inches,4 GB,128 GB,Celeron N4020,‎windows home 11,12990.,3.7,29,Integrated
+ASUS,Vivobook Go 15 (2023),15.6 Inches,,512 GB,Ryzen 5,‎Windows 11 Home,40990.,3.9,142,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,‎Windows,30442.,4.0,1506,Integrated
+Lenovo,IdeaPad,14 Inches,,512 GB,Intel Core i5,‎Windows 11 Home,52890.,3.9,488,Integrated
+MSI,Cyborg 14,36 Centimetres,8 GB,512 GB,Intel Core i5,‎Windows 11 Home,56990.,5.0,1,Dedicated
+Chuwi,GemiBook Plus,15.6 Inches,8 GB,256 GB,No CPU model,‎Windows 11,20990.,3.5,321,Integrated
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,495,4.3,77434,No graphic
+Acer,Aspire Lite,15.6 Inches,16 GB,Solid State,Intel Core i5,‎Windows 11 Home,51988.,-1.0,No review count,Integrated
+amazon basics,No model,No screen size,No RAM,No storage,No CPU model,No operating system,249,4.1,2466,No graphic
+HP,245 G9,14 Inches,8 GB,512 GB,Ryzen 3 3250U,‎Windows 11 Pro,24890.,3.3,15,Integrated
+Lenovo,IdeaPad 3,15 Inches,16 GB,512 GB,Core i3,"‎Windows 11 Home 64, English",35950.,4.1,1054,Integrated
+HP,HP Victus,39.6 Centimetres,16 GB,1 TB,Intel Core i7,‎Windows 11 Home,89990.,3.3,17,Dedicated
+Lenovo,IdeaPad,14 Inches,,512 GB,Intel Core i5,‎Windows 11 Home,52390.,3.9,488,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,‎Windows 11 Home,52990.,3.9,370,Integrated
+Lenovo,IdeaPad Slim,15 Inches,16 GB,512 GB,Intel Core i7,‎Windows 11 Home,66690.,4.0,821,Integrated
+XPAC RAMON,No model,No screen size,No RAM,No storage,No CPU model,No operating system,499,-1.0,No review count,No graphic
+XPAC RAMON,No model,No screen size,No RAM,No storage,No CPU model,No operating system,499,-1.0,No review count,No graphic
+Apple,"13-inch MacBook Air (M4, 2025)",13.6 Inches,16 GB,No storage,Apple M4,No operating system,99900.,-1.0,No review count,No graphic
+MSI,Thin 15,40 Centimetres,8 GB,No storage,Core i5,‎Windows 11 Home,52990.,2.5,5,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,‎Windows 11 Home,39250.,4.1,1936,Integrated
+HP,HP ZBook Firefly 16 inch G11 Mobile Workstation PC,40.6,32 GB,1 TB,Intel Core Ultra 7,‎Windows 11 Professional,142000.,5.0,1,Integrated
+Lenovo,LOQ,15.6 Inches,,512 GB,Ryzen 7,‎Windows 11 Home,91690.,4.2,31,Dedicated
+No brand,No model,No screen size,No RAM,No storage,No CPU model,No operating system,299,4.3,12714,No graphic
+HP,No model,14 Inches,32 GB,1 TB,Core i7,‎Windows 11 Home,144500.,4.0,9,Integrated
+EDNITA,No model,No screen size,No RAM,No storage,No CPU model,No operating system,198,4.2,126,No graphic
+Microsoft,Surface Laptop,13.8 Inches,16 GB,512 GB,Snapdragon,‎Windows 11 Home,131990.,5.0,3,Integrated
+HP,HP Laptop,15.6 Inches,16 GB,512 GB,Core i5,‎Windows 11 Home,57990.,3.8,122,Integrated
+Lenovo,LOQ,15.6 Inches,16 GB,512 GB,Intel Core i5,‎Windows 11,78190.,4.0,257,Dedicated
+Lenovo,IdeaPad,14 Inches,,512 GB,Intel Core i5,‎Windows 11 Home,52390.,3.9,488,Integrated
